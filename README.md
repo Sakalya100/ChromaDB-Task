@@ -1,5 +1,8 @@
-# ChromaDB-Task
-The task to implement QA Chatbot using Langchain, ChromaDB along with GPT 3.5
+## Task Overview:
+Most of our popular client projects involve building Q&A bots using client documents or creating natural language to SQL bots. Typically, we start these projects with a Streamlit chatbot and eventually deliver them via FastAPI.
+
+## Your Assignment:
+You will replicate a project from the following videos. While doing so, please use Chroma DB instead of Pinecone and GPT-3.5 instead of GPT-4, as these reflect our current project environments more accurately.
 
 
 # Video Demo
